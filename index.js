@@ -39,4 +39,4 @@ Client.on('message', async message => {
 
 })
 
-Client.login('NTY1OTAyMjY0MjcxODk2NTg2.XLEAqg.VLPjKUShpNU_TysJgYhP9oC_FbI');
+bot.login(process.env.token);
